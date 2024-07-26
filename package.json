@@ -1,6 +1,6 @@
 {
   "name": "sandi-morse-typescript",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "./lib/main.js",
   "types": "./lib/main.d.ts",
@@ -36,6 +36,6 @@
     "typescript": "^5.4.2"
   },
   "repository": {
-    "url": "https://github.com/babe25/Kode-Morse-Typescript"
+    "url": "https://github.com/rendi-hendra/Kode-Morse-Typescript"
   }
 }
