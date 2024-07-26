@@ -1,0 +1,6 @@
+# Output build
+/lib
+/dist
+
+# Node modules
+/node_modules
